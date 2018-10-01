@@ -30,7 +30,7 @@ $ Todo comando LaTeX começa com uma barra invertida (\)
 % Em seguida definimos os pacotes que o documento usa.
 % Se você quiser incluir gráficos, texto colorido, ou código fonte de outra
 % linguagem em outro arquivo em seu documento, você precisa ampliar as
-% capacidade do LaTeX. Isso é feito adicionando-se pacotes.
+% capacidades do LaTeX. Isso é feito adicionando-se pacotes.
 % Serão incluídos os pacotes float e caption para imagens e hyperref
 % para links.
 \usepackage{caption}
@@ -46,7 +46,7 @@ Svetlana Golubeva}
 \date{\today}
 \title{Aprenda \LaTeX \hspace{1pt} em Y Minutos!}
 
-% Agora estamos pronto para começar o documento
+% Agora estamos prontos para começar o documento
 % Tudo antes dessa linha é chamado "preâmbulo".
 \begin{document}
 % Se informarmos os campos author (autores), date (data), "title" (título),
